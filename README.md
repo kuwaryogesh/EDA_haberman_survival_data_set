@@ -1,0 +1,2 @@
+# EDA_haberman_survival_data_set
+The data set contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.we can predict no of patient survive  and no of patient die after surgery using following parameters-Age,year of operation,no of axial nodes and we have predict result as survival status
